@@ -13,6 +13,7 @@
 		E63F805420B348DF00095DD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E63F805320B348DF00095DD7 /* Assets.xcassets */; };
 		E63F805720B348DF00095DD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E63F805520B348DF00095DD7 /* LaunchScreen.storyboard */; };
 		E63F806420B34E2300095DD7 /* LogoCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = E63F806320B34E2300095DD7 /* LogoCorner.swift */; };
+		E63F806620B4906B00095DD7 /* ButtonCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = E63F806520B4906B00095DD7 /* ButtonCorner.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E63F805620B348DF00095DD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E63F805820B348DF00095DD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E63F806320B34E2300095DD7 /* LogoCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoCorner.swift; sourceTree = "<group>"; };
+		E63F806520B4906B00095DD7 /* ButtonCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonCorner.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				E63F806320B34E2300095DD7 /* LogoCorner.swift */,
+				E63F806520B4906B00095DD7 /* ButtonCorner.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				E63F806420B34E2300095DD7 /* LogoCorner.swift in Sources */,
 				E63F804F20B348DD00095DD7 /* ViewController.swift in Sources */,
+				E63F806620B4906B00095DD7 /* ButtonCorner.swift in Sources */,
 				E63F804D20B348DD00095DD7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
